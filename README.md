@@ -1,7 +1,6 @@
 <h2> Hi, I'm Lina Hueso</h2>
 <p>
-  <em>Software engineering student at <a href="https://www.poli.edu.co/">Politecnico Grancolombiano</a>
-  </br>Junior Developer ✨  </em>
+  <em>Software engineering student at <a href="https://www.poli.edu.co/">Politecnico Grancolombiano</a> ✨  </em>
  </p>
 <p>I am starting in backend development, with Python and Java languages. I have little experience in the programming field, but I have 3 years in data analysis. <br/>I hope you find my repos useful</p>
 
