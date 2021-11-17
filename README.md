@@ -9,18 +9,28 @@ import random
 
 //Guess the number
 
-def run():
-    numero_aletorio = random.randint(1,100)
-    numero_elegido = int(input("Elige un número del 1 al 100: "))
-    while numero_elegido != numero_aletorio:
-        if numero_elegido < numero_aletorio:
-            print("Busca un número más grande")
-        else:
-            print("Busca un número más pequeño")
-        numero_elegido = int(input("Elige otro número: "))
-    print("¡Ganaste!")
+class lihuesom:
+    def __init__(self):
+        self.name = "Lina Hueso"
+        self.email = "linahueso03@gmail.com"
+        self.description = "Software engineer, focused on data analytics"
 
+    def work_experience():
+        return {
+            '2021': 'Fullstack web developer at SAEM(Servicios de Apoyo Empresarial Masivo)',
+            '2018-2020':'Telecommunications Services Analyst at Grupo Oesia',
+            '2017-2018': 'Telecommunications services support at Teleperfomance Colombia',
+            '2016-2017': 'Help desk support at Universidad de la salle'
+        }
 
-if __name__ == "__main__":
-    run()
+    def education():
+        return {
+            '2020-now':'Backend Development with Python and Django - Platzi'
+            '2019-now':'Software engineer - Politecnico Grancolombiano',
+            '2018-2018':'Survey of information and georeferencing - JuvenTic Colnodo',
+            '2015-2017':'Professional telecommunications technician - Fundación San Mateo'
+        }
+
+    def skills():
+        return ['PHP','JAVA','Pyhon','Git','MySQL','MacOs','SCRUM']
 ```
