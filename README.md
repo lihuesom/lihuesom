@@ -1,8 +1,8 @@
-<h2> Hi, I'm Lina Hueso</h2>
+### Hey! I'm [@hueso_0](https://twitter.com/hueso_0) (Lina Hueso) ✨
 <p>
-  <em>Software engineering student at <a href="https://www.poli.edu.co/">Politecnico Grancolombiano</a> ✨  </em>
+  <em>I'm a software developer from Colombia. 🇨🇴</a>🤓 </em>
  </p>
-<p>I am starting in backend development, with Python and Java languages. I have little experience in the programming field, but I have 3 years in data analysis. <br/>I hope you find my repos useful</p>
+<p>I am a person passionate about learning, development and cycling.</p>
 
 ```javascript
 class lihuesom:
@@ -13,20 +13,22 @@ class lihuesom:
 
     def work_experience():
         return {
+            '2021-now: 'Senior backend Developer at Montechelo Techology',
             '2021': 'Fullstack web developer at SAEM(Servicios de Apoyo Empresarial Masivo)',
-            '2018-2020':'Telecommunications Services Analyst at Grupo Oesia',
-            '2017-2018': 'Telecommunications services support at Teleperfomance Colombia',
-            '2016-2017': 'Help desk support at Universidad de la salle'
+            '2018-2020':'Telecommunications Services Analyst at Grupo Oesia'
         }
 
     def education():
         return {
-            '2020-now':'Backend Development with Python and Django - Platzi'
-            '2019-now':'Software engineer - Politecnico Grancolombiano',
+            'now':'Software engineer - Politecnico Grancolombiano',
+            '2021:'Web development studies - Universidad nacional (Mision TIC)',
             '2018-2018':'Survey of information and georeferencing - JuvenTic Colnodo',
             '2015-2017':'Professional telecommunications technician - Fundación San Mateo'
         }
-
-    def skills():
-        return ['PHP','JAVA','Pyhon','Git','MySQL','MacOs','SCRUM']
 ```
+
+You can find me on:
+
+* [Twitter as @hueso_o](https://twitter.com/hueso_0)
+* [GitHub as @lihuesom (you are here)](https://github.com/lihuesom)
+* [LinkedIn](https://linkedin.com/in/lihuesom)
