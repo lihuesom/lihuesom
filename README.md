@@ -2,7 +2,7 @@
 <p>
   <em>I'm a software developer from Colombia. 🇨🇴</a>🤓 </em>
  </p>
-<p>I am a person passionate about learning, development and cycling.</p>
+<p>I'm a person passionate about learning, development and cycling. I have knowledge in web programming with PHP, Python, Java, HTML, CSS, JavaScript. I manage databases such as mariaBD, MySql, PostgresSQL. </p>
 
 ```javascript
 class lihuesom:
