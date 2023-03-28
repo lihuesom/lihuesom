@@ -2,7 +2,11 @@
 <p>
   <em>I'm a software developer from Colombia. 🇨🇴</a>🤓 </em>
  </p>
-<p>I'm a person passionate about learning, development and cycling. I have knowledge in web programming with PHP, Python, Java, HTML, CSS, JavaScript. I manage databases such as mariaBD, MySql, PostgresSQL. </p>
+<p>I am a backend developer with over 3 years of experience in data analysis, maintenance, and internal process development of web applications. My experience in backend technologies includes PHP, Python, MySQL, MariaDB, and MongoDB, and I have worked with frameworks such as Laravel and Django.
+
+In addition, I have experience in frontend application development using JavaScript and Angular. I have applied agile working methodologies such as Scrum to manage projects and improve efficiency and work quality.
+
+As a backend developer, I have contributed to the implementation and improvement of internal automation processes in different companies, resulting in a significant reduction in production time and costs. I have also been responsible for the maintenance and support of web applications, working as a team to solve problems and improve the user experience. </p>
 
 ```javascript
 class lihuesom:
