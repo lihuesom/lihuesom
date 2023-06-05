@@ -17,14 +17,14 @@ class lihuesom:
 
     def work_experience():
         return {
-            '2021-now: 'Senior backend Developer at Montechelo Techology',
+            '2021-2023: 'Senior backend Developer at Montechelo Techology',
             '2021': 'Fullstack web developer at SAEM(Servicios de Apoyo Empresarial Masivo)',
             '2018-2020':'Telecommunications Services Analyst at Grupo Oesia'
         }
 
     def education():
         return {
-            'now':'Software engineer - Politecnico Grancolombiano',
+            '2023':'Software engineer - Politecnico Grancolombiano',
             '2021:'Web development studies - Universidad nacional (Mision TIC)',
             '2018-2018':'Survey of information and georeferencing - JuvenTic Colnodo',
             '2015-2017':'Professional telecommunications technician - Fundación San Mateo'
