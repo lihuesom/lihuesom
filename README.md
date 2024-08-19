@@ -17,9 +17,10 @@ class lihuesom:
 
     def work_experience():
         return {
-            '2023-present: 'Django Developer at Lezag',
-            '2021-2023: 'Senior backend Developer at Montechelo Techology',
-            '2021': 'Fullstack web developer at SAEM(Servicios de Apoyo Empresarial Masivo)',
+            '2024-Present: 'Backend Developer at Armatuvaca',
+            '2023-2024: 'Django Developer at Lezag',
+            '2021-2023: 'Backend Developer at Montechelo Techology',
+            '2021': 'Web developer at SAEM(Servicios de Apoyo Empresarial Masivo)',
             '2018-2020':'Telecommunications Services Analyst at Grupo Oesia'
         }
 
